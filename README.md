@@ -5,7 +5,7 @@
 - I'm looking for a chance in the area, to learn everything that i need to be a complete DEV.
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anthelios&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gustapolettini&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
 </div>
 
 <a href = "https://www.facebook.com/gustavopolettini/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
