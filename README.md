@@ -1,9 +1,10 @@
 # Hey everyone, I am Gustavo Polettini.
- Welcome
-- Future full-stack DEV.
-- I'm currently learning PHP/JS/React/Laravel/Node.js on Alura.
-- I'm looking for a job in tech area, to learn everything that i need to be a complete DEV.
 
+Welcome
+
+- Future full-stack DEV.
+- I'm currently learning PHP/JS/React/Laravel/Node.js on Alura.....
+- I'm looking for a job in tech area, to learn everything that i need to be a complete DEV.
 
 <div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gustapolettini&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
