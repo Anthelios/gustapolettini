@@ -4,7 +4,7 @@
 
 
 - Currently i'm a goldsmith. In future i will be a front-end dev;
-- Studing english with a private teacher;
+- Studying english with a private teacher;
 
 - Currently learning PHP|JavaScript|Laravel|React;
 
