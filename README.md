@@ -1,6 +1,6 @@
 # Hey everyone, I am Gustavo Polettini.
 
-Welcome
+Welcome to my profile!
 
 - Future full-stack DEV.
 - I'm currently learning PHP/JS/React/Laravel/Node.js on Alura.
