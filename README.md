@@ -3,7 +3,7 @@
 Welcome
 
 - Future full-stack DEV.
-- I'm currently learning PHP/JS/React/Laravel/Node.js on Alura.....
+- I'm currently learning PHP/JS/React/Laravel/Node.js on Alura.
 - I'm looking for a job in tech area, to learn everything that i need to be a complete DEV.
 
 <div>
