@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-- Currently i'm a goldsmith. In future i will be a front-end dev;
+- Currently i'm a goldsmith. In future i will be a full-stack dev;
 - Studying english with a private teacher;
 
 - Currently learning PHP|JavaScript|Laravel|React;
